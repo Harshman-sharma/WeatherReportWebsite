@@ -1,3 +1,1 @@
-[IMPORTANT] How to run the website:
-
-The website is available at : 
+The website preview is available at : https://affectionate-cray-5ead88.netlify.app/
